@@ -1,3 +1,13 @@
+window.addEventListener('load', main);
+
+function main() {
+    addEventListeners();
+}
+
+
+
+/*
+
 //david header-script
 
 const header = document.querySelector('header');
@@ -10,3 +20,5 @@ menuIcon.onclick = function() {
         header.style.height = '100%';
     }
 }
+
+*/
