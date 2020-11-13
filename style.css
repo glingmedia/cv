@@ -49,6 +49,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 h1 {
@@ -63,6 +64,12 @@ h2 {
 h3 {
     margin: 1rem;
     justify-content: center;
+}
+
+.infobox {
+    max-width: 40rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 
 /* Header */
