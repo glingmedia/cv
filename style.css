@@ -9,41 +9,22 @@ html {
 }
 
 body {
-    background:white;
+    background: #ffffff;
 }
 
 header {
-    display: flex;
-    flex-direction: column;
-}
-
-header i {
-    cursor: pointer;
-}
-
-menu {
     height: 3rem;
+    display: flex;
+    align-items: center;
 }
 
-/* nav {
-    display: inline;
-    font-size: 2rem;
-    font-weight: 500;
-    flex-direction: column;
+.fa-home {
+    font-size: 1.5rem;
+    margin-left: 1rem;
 }
-
-li {
-    display: inline;
-    flex-direction: column;
-}
-
-ul {
-    display: inline;
-    flex-direction: column;
-} */
 
 main {
-    background:lightgray;
+    background: lightgray;
     min-height: 80vh;
     display: flex;
     flex-direction: column;
@@ -59,9 +40,15 @@ h1 {
 
 h2 {
     margin: 1rem;
+    justify-content: center;
 }
 
 h3 {
+    margin: 1rem;
+    justify-content: center;
+}
+
+h4 {
     margin: 1rem;
     justify-content: center;
 }
