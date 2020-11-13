@@ -7,4 +7,3 @@ function main() {
 function counterSlideShow() {
     setInterval(changeCounter, 1000);
 }
-
