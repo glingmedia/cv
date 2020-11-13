@@ -1,12 +1,12 @@
-## JavaScript Grund
+## JavaScript Grundkurs, 60 Yhp
 
 # Laboration 2
 
-**Gör ett CV**
+**Ett interaktivt digitalt CV**
 
-*To do*
+*Curriculum vitae*
 
-Allt
+Jonas Glingert
 
 *GitHub Pages*
-[Demo](https://glingmedia.se/)
+[Demo](https://glingmedia.github.io/cv/)
