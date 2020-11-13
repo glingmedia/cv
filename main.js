@@ -14,12 +14,7 @@ function printAboutMe() {
 }
 
 /*
-window.addEventListener('load', main);
-
-
-
-function main() {
-    houseAnimation();
+function houseAnimation();
 }
 
 function houseAnimation() {
