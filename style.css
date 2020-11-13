@@ -74,4 +74,9 @@ h4 {
 
 #portfolio {
     display: none;
+    margin: 1rem;
+}
+
+img {
+    position: fixed;
 }
