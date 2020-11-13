@@ -8,5 +8,5 @@
 
 Jonas Glingert
 
-*GitHub Pages Link*
-[https://glingmedia.github.io/cv/](https://glingmedia.github.io/cv/)
+*GitHub Pages*
+[Link](https://glingmedia.github.io/cv/)
