@@ -60,7 +60,7 @@ h4 {
     padding-bottom: 3rem;
 }
 
-.animatebox {
+/* .animatebox {
     position: relative;
     width: 20rem;
     height: 20rem;
@@ -70,4 +70,8 @@ h4 {
     background: hotpink;
     width: 3rem;
     height: 3rem;
+} */
+
+#portfolio {
+    display: none;
 }

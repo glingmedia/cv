@@ -5,27 +5,10 @@ function main() {
 }
 
 function addEventListeners() {
-    const buttonAboutMe = document.getElementById('om');
-    buttonAboutMe.onclick = printAboutMe;
+    const portfolioButton = document.getElementById('portfolio');
+    portfolioButton.onclick = printPortfolio;
 }
 
-function printAboutMe() {
-    const om = document.getElementById('om');
+function printPortfolio() {
+    document.getElementById('portfolio').style.display='block';
 }
-
-/*
-function houseAnimation();
-}
-
-function houseAnimation() {
-    setInterval(houseFly, 8)
-}
-
-function houseFly() {
-    let left = 0;
-    const house = document.querySelector('home');
-    left += 1;
-    house.style.left = left + '%';
-}    
-
-*/

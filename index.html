@@ -20,10 +20,10 @@
 
     <!-- <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script> -->
 
-    <!-- <script src="main.js"></script> -->
+    <script src="main.js"></script>
     <!-- <script src="script.js"></script> -->
     <!-- <script src="slide.js"></script> -->
-    <script src="animation.js"></script>
+    <!-- <script src="animation.js"></script> -->
 </head>
 <body>
     <!-- Header --> 
@@ -39,21 +39,25 @@
             <h3>Hej mitt namn är Jonas Glingert och jag är en blivande front end developer. Jag är 37 år gammal. Jag är ny i programmeringsvärlden.</h3>
             <h3>Jag studerar på Medieinstitutet i Göteborg och tar examen våren 2022.</h3>
             <h3>Här kommer min portfolio att uppdateras.</h3>
-            <button id="portfolio">Portfolio</button>
-            <p id="placeHolder">
-                <!---- JavaScript inject -->
-            </p>
+            
+            <button type="button" onclick="document.getElementById('portfolio').style.display='block'">Portfolio</button>
+
+            <p id="portfolio">Portfolio</p>
+
+
+            <!-- <button id="portfolio">Portfolio</button>
+            <p id="placeHolder">JS-Inject</p>
         </div>
 
         <div class="counter" id="counter">
             Counter
         </div>
-
+        
         <div class="animatebox">
             <div id="animation">
                 Animation
             </div>
-        </div>
+        </div> -->
     </main>
     <!-- Footer -->
     <footer>
