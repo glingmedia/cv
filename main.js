@@ -9,5 +9,4 @@ function houseAnimation() {
 }
 
 function houseRotation() {
-    setInterval()
-}
+    const house = document.querySelector('home');
